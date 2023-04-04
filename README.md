@@ -25,4 +25,3 @@ See the man page for details.
 
 TODO
 ----
-make a xresources patch like dwm
