@@ -22,3 +22,7 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
+TODO
+----
+make a xresources patch like dwm
